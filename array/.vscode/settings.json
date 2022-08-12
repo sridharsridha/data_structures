@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.tac": "cpp",
+        "*.tin": "cpp",
+        "*.itin": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "type_traits": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp"
+    }
+}
